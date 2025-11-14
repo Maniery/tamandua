@@ -30,13 +30,14 @@ Abra seu terminal WSL (Debian) e execute o comando abaixo para garantir que toda
 sudo apt update && sudo apt install python3-scapy dnsutils curl
 
 ### Terminal 1 – Parte de Cima
-![Terminal 1 Cima](./terminal1cima.png)
+![Terminal 1 Cima](https://github.com/Maniery/tamandua/blob/main/terminal1cima.png?raw=true)
 
 ### Terminal 1 – Parte de Baixo
-![Terminal 1 Baixo](./Terminal1baixo.jpg)
+![Terminal 1 Baixo](<img width="958" height="601" alt="image" src="https://github.com/user-attachments/assets/22510854-368e-43f2-b765-6bc96467a153" />
+)
 
 ### Terminal 2 – Parte de Cima
-![Terminal 2 Cima](./terminal2cima.jpg)
+![Terminal 2 Cima](https://github.com/Maniery/tamandua/blob/main/terminal2cima.jpg?raw=true)
 
 ### Terminal 2 – Parte de Baixo
-![Terminal 2 Baixo](./terminal2baixo.jpg)
+![Terminal 2 Baixo](https://github.com/Maniery/tamandua/blob/main/terminal2baixo.jpg?raw=true)
