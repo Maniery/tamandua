@@ -12,7 +12,7 @@ Uma funcionalidade central é a verificação da integridade do **Checksum** de 
 * (Erick Bezerra)
 
 ## ⚙️ Requisitos
-
+![Terminal 1 Cima](https://github.com/Maniery/tamandua/blob/main/terminal1cima.png?raw=true)
 * **Ambiente:** WSL (Debian/Ubuntu)
 * **Python 3**
 * **Bibliotecas Python:** `python3-scapy`
@@ -28,8 +28,7 @@ Abra seu terminal WSL (Debian) e execute o comando abaixo para garantir que toda
 
 ```bash
 sudo apt update && sudo apt install python3-scapy dnsutils curl
-
-### Terminal 1 – Parte de Cima
+Terminal 1 – Parte de Cima
 ![Terminal 1 Cima](https://github.com/Maniery/tamandua/blob/main/terminal1cima.png?raw=true)
 
 ### Terminal 1 – Parte de Baixo
