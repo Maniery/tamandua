@@ -2,7 +2,6 @@
 import scapy.all as scapy
 from scapy.layers.inet import IP, TCP, UDP
 
-
 def verificar_checksum_udp(packet):
     if IP not in packet or UDP not in packet:
         return None
